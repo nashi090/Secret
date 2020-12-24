@@ -1,0 +1,3 @@
+go to window powershell as a admin
+type pip install telethon
+pip install requests
